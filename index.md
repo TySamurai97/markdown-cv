@@ -28,8 +28,8 @@ Windows Presentation Foundation, Spring boot, Django
 __MORGAN STANLEY__
 `10 June 2019`
 <br>
-` – present`
-<br> Developed and enhanced VOLCKER a financial data processing and reporting
+`– present`
+Developed and enhanced VOLCKER a financial data processing and reporting
 project required by the compliance department.
 <br> worked on in-house ETL tool to create and maintain the workflows concerning
 the processing and reporting needs of one of the financial data warehouse
@@ -43,7 +43,7 @@ __ACCOLITE SOFTWARE__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
-<br> Worked on an online programming website purposed for conducting round one
+Worked on an online programming website purposed for conducting round one
 interview to test the coding proficiency of a candidate. I delivered features such
 as saving the project directory to AWS S3, compile and run tests functionality
 for dot net frameworks, C++ and python to the service layer and the UI of the
@@ -55,7 +55,7 @@ __R SYSTEMS INTERNATIONAL__
 `1 June 2018`
 <br>
 `– 15 July 2018`
-- developed an industrial project management Android application using firebase
+developed an industrial project management Android application using firebase
 as backend from ground up.
 
 ## PROJECTS
