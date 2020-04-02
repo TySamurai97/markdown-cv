@@ -65,7 +65,6 @@ giving a platform specific comparison of two users and providing
 consultance from expert programmers through personal chat options.
 
 ## ACHIEVEMENTS
-__COMPETETIVE PROGRAMMING__
 <br> Secured 509th rank in Google
 Kickstart Round C 2018.
 <br> Scored a maximum of 1517
