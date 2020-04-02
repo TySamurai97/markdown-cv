@@ -27,6 +27,7 @@ Windows Presentation Foundation, Spring boot, Django
 
 __MORGAN STANLEY__
 `10 June 2019`
+<br>
 ` – present`
 <br> Developed and enhanced VOLCKER a financial data processing and reporting
 project required by the compliance department.
@@ -40,6 +41,7 @@ financial controllers on excel
 
 __ACCOLITE SOFTWARE__
 `4 Feb 2019`
+<br>
 `– 31 May 2019`
 <br> Worked on an online programming website purposed for conducting round one
 interview to test the coding proficiency of a candidate. I delivered features such
@@ -51,6 +53,7 @@ Jaspersoft studio.
 
 __R SYSTEMS INTERNATIONAL__
 `1 June 2018`
+<br>
 `– 15 July 2018`
 - developed an industrial project management Android application using firebase
 as backend from ground up.
