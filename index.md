@@ -1,6 +1,4 @@
 ---
-layout: cv
-title: Tanay Saxena's CV
 ---
 # Tanay Saxena
 Tech. consultant at Morgan Stanley
@@ -24,7 +22,7 @@ Windows Presentation Foundation, Spring boot, Django
 ## EXPERIENCE
 
 __MORGAN STANLEY__
-`10 June 2019 – present`
+`10 June 2019 –<br> present`
 - Developed and enhanced VOLCKER a financial data processing and reporting
 project required by the compliance department.
 - worked on in-house ETL tool to create and maintain the workflows concerning
@@ -36,7 +34,7 @@ dimension in the financial data warehouse
 financial controllers on excel
 
 __ACCOLITE SOFTWARE__
-`4 Feb 2019 – 31 May 2019`
+`4 Feb 2019 –<br> 31 May 2019`
 - Worked on an online programming website purposed for conducting round one
 interview to test the coding proficiency of a candidate. I delivered features such
 as saving the project directory to AWS S3, compile and run tests functionality
@@ -46,7 +44,7 @@ website.
 Jaspersoft studio.
 
 __R SYSTEMS INTERNATIONAL__
-`1 June 2018 – 15 July 2018`
+`1 June 2018 –<br> 15 July 2018`
 - developed an industrial project management Android application using firebase
 as backend from ground up.
 
