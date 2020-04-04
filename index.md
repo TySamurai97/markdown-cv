@@ -29,11 +29,11 @@ __MORGAN STANLEY__
 `10 June 2019`
 <br>
 `– present`
-Developed and enhanced VOLCKER a financial data processing and reporting
+Developed and enhanced VOLCKER, a financial data processing and reporting
 project required by the compliance department.
 <br> enhanced the trade signoff desktop application based on .net
-<br> Developed multiple workflows for processing and reporting of financial datawarehouse applications
-<br> Scripted python processes for Automation of complex trading calcultions performed by
+<br> Developed multiple workflows for processing and reporting of financial data warehouse applications
+<br> Scripted python processes for Automation of complex trading calculations performed by
 financial controllers
 <br> Cleared one of the tech-debt jira on the conversion of one of the fast-changing dimension(PSK id used
 to uniquely identify trade positions in detailed sub-ledger) to slow changing
@@ -43,7 +43,7 @@ __ACCOLITE SOFTWARE__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
-enhanced an online programming website purposed for conducting round one
+Enhanced an online programming website purposed for conducting round one
 interview to test the coding proficiency of a candidate. I delivered features such
 as saving the project directory to AWS S3, compile and run tests functionality
 for dot net frameworks, C++ and python to the service layer and the UI of the
@@ -55,8 +55,8 @@ __R SYSTEMS INTERNATIONAL__
 `1 June 2018`
 <br>
 `– 15 July 2018`
-developed an industrial project management Android application using firebase
-as backend from ground up.
+Developed an industrial project management Android application using firebase
+as backend from.
 
 ## PROJECTS
 __VIDEO DE-BLURRING__
@@ -75,11 +75,11 @@ consultance from expert programmers through personal chat options.
 Kickstart Round C 2018.
 <br> Scored a maximum of 1517
 rating on codeforces.
-<br> Ranked among among the
+<br> Ranked among the
 top 500 out of 50,000
 participants from India
 in HackWithInfy contest
-<br> Secured position in top 207
+<br> Secured a rank of 207
 out of 2,28,880 participants
 Code Gladiators 2018 coding
 competition
