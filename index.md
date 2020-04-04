@@ -15,10 +15,10 @@ Tech. consultant at Morgan Stanley
 
 
 ## Currently
-Working at Morgan Stanley 
+Consultant at Morgan Stanley, Software Engineer at Accolite Software
 
 ### Skills
-C++, Python, SQL, C#
+C++, Python, SQL, C#, Teradata
 
 ### Frameworks
 Windows Presentation Foundation, Spring boot, Django
@@ -31,19 +31,19 @@ __MORGAN STANLEY__
 `– present`
 Developed and enhanced VOLCKER a financial data processing and reporting
 project required by the compliance department.
-<br> worked on in-house ETL tool to create and maintain the workflows concerning
-the processing and reporting needs of one of the financial data warehouse
-<br> Worked on the conversion of one of the fast-changing dimension(PSK id used
+<br> enhanced the trade signoff desktop application based on .net
+<br> Developed multiple workflows for processing and reporting of financial datawarehouse applications
+<br> Scripted python processes for Automation of complex trading calcultions performed by
+financial controllers
+<br> Cleared one of the tech-debt jira on the conversion of one of the fast-changing dimension(PSK id used
 to uniquely identify trade positions in detailed sub-ledger) to slow changing
 dimension in the financial data warehouse
-<br> wrote python scripts to Automate multiple daily calculations performed by
-financial controllers on excel
 
 __ACCOLITE SOFTWARE__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
-Worked on an online programming website purposed for conducting round one
+enhanced an online programming website purposed for conducting round one
 interview to test the coding proficiency of a candidate. I delivered features such
 as saving the project directory to AWS S3, compile and run tests functionality
 for dot net frameworks, C++ and python to the service layer and the UI of the
@@ -60,9 +60,8 @@ as backend from ground up.
 
 ## PROJECTS
 __VIDEO DE-BLURRING__
-The project aims to reduce the blurriness of the videos caused by
-various factors and enhance the picture quality further by making use of
-deep learning specifically DCGAN (Deep convolutional generative
+Developed a project purposed for super-resolution of the videos to enhance the picture quality by making use of
+deep-learning specifically DCGAN (Deep convolutional generative
 adversarial network).<br>
 __COMPETITIVE PROGRAMMING COMPANION__
 This application helps beginners to compete well in programming
