@@ -39,7 +39,7 @@ financial controllers
 to uniquely identify trade positions in detailed sub-ledger) to slow changing
 dimension in the financial data warehouse
 
-__ACCOLITE SOFTWARE__
+__ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
@@ -51,7 +51,7 @@ website.
 <br> Designed reports for Eduthrill/Code-analyzer application usage statistics using
 Jaspersoft studio.
 
-__R SYSTEMS INTERNATIONAL__
+__R SYSTEMS INTERNATIONAL (Internship)__
 `1 June 2018`
 <br>
 `– 15 July 2018`
@@ -64,11 +64,10 @@ Developed a project purposed for super-resolution of the videos to enhance the p
 deep-learning specifically DCGAN (Deep convolutional generative
 adversarial network).<br>
 __COMPETITIVE PROGRAMMING COMPANION__
-This application helps beginners to compete well in programming
-competitions by providing user data and performance on various
-platforms like SPOJ and CodeForces, question of the day for practice,
-giving a platform specific comparison of two users and providing
-consultance from expert programmers through personal chat options.
+Developed this application to help students compete well in programming
+competitions by providing user performance analysis on various
+platforms like SPOJ and CodeForces, platform specific comparison of two users,
+providing consultance from expert programmers through inbuilt messaging service.
 
 ## ACHIEVEMENTS
 <br> Secured 509th rank in Google
