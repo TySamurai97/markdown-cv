@@ -31,19 +31,19 @@ __MORGAN STANLEY__
 `– present`
 Developed and enhanced VOLCKER, a financial data processing and reporting
 project required by the compliance department.
-<br> enhanced the trade signoff desktop application based on .net
-<br> Developed multiple workflows for processing and reporting of financial data warehouse applications
+<br> Enhanced the trade signoff desktop application based on .net.
+<br> Developed multiple workflows for processing and reporting of financial data warehouse applications.
 <br> Scripted python processes for Automation of complex trading calculations performed by
-financial controllers
+financial controllers.
 <br> Cleared one of the tech-debt jira on the conversion of one of the fast-changing dimension(PSK id used
 to uniquely identify trade positions in detailed sub-ledger) to slow changing
-dimension in the financial data warehouse
+dimension in the financial data warehouse.
 
 __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
-Enhanced an online programming website purposed for conducting round one
+Enhanced an online programming website intended for conducting round one
 interview to test the coding proficiency of a candidate. I delivered features such
 as saving the project directory to AWS S3, compile and run tests functionality
 for dot net frameworks, C++ and python to the service layer and the UI of the
@@ -56,14 +56,16 @@ __R SYSTEMS INTERNATIONAL (Internship)__
 <br>
 `– 15 July 2018`
 Developed an industrial project management Android application using firebase
-as backend from.
+as backend.
 
 ## PROJECTS
 __VIDEO DE-BLURRING__
-Developed a project purposed for super-resolution of the videos to enhance the picture quality by making use of
+<br>
+Developed a project intended for super-resolution of the videos to enhance the picture quality by making use of
 deep-learning specifically DCGAN (Deep convolutional generative
 adversarial network).<br>
 __COMPETITIVE PROGRAMMING COMPANION__
+<br>
 Developed this application to help students compete well in programming
 competitions by providing user performance analysis on various
 platforms like SPOJ and CodeForces, platform specific comparison of two users,
@@ -77,11 +79,11 @@ rating on codeforces.
 <br> Ranked among the
 top 500 out of 50,000
 participants from India
-in HackWithInfy contest
+in HackWithInfy contest.
 <br> Secured a rank of 207
 out of 2,28,880 participants
 Code Gladiators 2018 coding
-competition
+competition.
 <br> Acquired second position in
 college hackathon for
 android app development.
@@ -93,7 +95,7 @@ AIR 9162.
 __JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY__
 B.TECH IN COMPUTER SCIENCE
 ENGINEERING
-Noida, India
+Noida sector 62, India
 CGPA - 7.7
 
 <!-- ### Footer
