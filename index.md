@@ -8,7 +8,7 @@ Tech. consultant at Morgan Stanley
 <div id="webaddress">
 <a href="tanaysaxena97@gmail.com">tanaysaxena97@gmail.com</a>
 | 7982385982
-| <a href="www.linkedin.com/in/tanay-saxena-2504">Linkedin</a>
+| <a href="http://www.linkedin.com/in/tanay-saxena-2504">Linkedin</a>
 | <a href="http://codeforces.com/profile/tysamurai">codeforces</a>
 | <a href="https://tysamurai97.github.io/markdown-cv/">This CV</a>
 </div>
