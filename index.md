@@ -17,11 +17,11 @@ Tech. consultant at Morgan Stanley
 ## Currently
 Consultant at Morgan Stanley, Software Engineer at Accolite Software
 
-### Skills
-Data Structures, Algorithms, C++, Python, SQL, JAVA, Teradata
+### Skills & Languages
+Data Structures, Algorithms, C++, Python, SQL, JAVA
 
-### Frameworks
-Spring boot, Django, WPF
+### Frameworks, Tools & Libraries
+Spring boot, Django, WPF, Teradata, Numpy, Pandas
 
 ## EXPERIENCE
 
