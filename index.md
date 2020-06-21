@@ -15,13 +15,13 @@ Tech. consultant at Morgan Stanley
 
 
 ## Currently
-Consultant at Morgan Stanley, Software Engineer at Accolite Software
+Softwre Engineer at Accolite Software working under Morgan Stanley account
 
 ### Skills & Languages
-Data Structures, Algorithms, C++, Python, SQL, JAVA
+Data Structures, Algorithms, Scala, JAVA, C++, Python, SQL
 
 ### Frameworks, Tools & Libraries
-Spring boot, Django, WPF, Teradata, Numpy, Pandas
+Spring boot, Akka, Cucumber, WPF, Teradata, Numpy, Pandas
 
 ## EXPERIENCE
 
@@ -31,13 +31,10 @@ __MORGAN STANLEY__
 `– present`
 Developed and enhanced VOLCKER, a financial data processing and reporting
 project required by the compliance department.
-<br> Enhanced the trade signoff desktop application based on .net.
-<br> Developed multiple workflows for processing and reporting of financial data warehouse applications.
-<br> Scripted python processes for Automation of complex trading calculations performed by
-financial controllers.
-<br> Cleared one of the tech-debt jira on the conversion of one of the fast-changing dimension(PSK id used
-to uniquely identify trade positions in detailed sub-ledger) to slow changing
-dimension in the financial data warehouse.
+<br> Implemented factor adjustment in adjustment service which is based on Scala futures and validations, also performed behaviour driven testing with Cucumber.
+<br> Enhanced the trade signoff desktop application called 3RS based on .net framework.
+<br> Developed multiple ETL workflows for processing and reporting of financial data warehouse with the help of Python and SQL.
+<br> Scripted python processes for Automation of complex trading calculations performed by financial controllers.
 
 __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
@@ -100,4 +97,4 @@ CGPA - 7.7
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2020 -->
