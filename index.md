@@ -41,9 +41,9 @@ __ACCOLITE SOFTWARE (Internship)__
 <br>
 `– 31 May 2019`
 <br>- Enhanced an online programming website intended for conducting round one
-interview to test the coding proficiency of a candidate. I delivered features such
+interview to test the coding proficiency of a candidate. Delivered features such
 as saving the project directory to AWS S3, compile and run tests functionality
-for dot net frameworks, C++ and python to the service layer and the UI of the
+for .net framework, C++ and python to the service layer and the UI of the
 website.
 <br>- Designed reports for Eduthrill/Code-analyzer application usage statistics using
 Jaspersoft studio.
