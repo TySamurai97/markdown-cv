@@ -36,7 +36,7 @@ project required by the compliance department.
 <br>- Implemented factor adjustment in adjustment service which is based on JAVA spring.
 <br>- Enhanced the trade signoff desktop application called 3RS based on .net framework.
 <br>- Developed multiple ETL workflows for processing and reporting of financial data warehouse with the help of Python and SQL.
-<br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers.
+<br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers.<br>
 __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
 <br>
@@ -47,7 +47,7 @@ as saving the project directory to AWS S3, compile and run tests functionality
 for .net framework, C++ and python to the service layer and the UI of the
 website.
 <br>- Designed reports for Eduthrill/Code-analyzer application usage statistics using
-Jaspersoft studio.
+Jaspersoft studio.<br>
 __R SYSTEMS INTERNATIONAL (Internship)__
 `1 June 2018`
 <br>
