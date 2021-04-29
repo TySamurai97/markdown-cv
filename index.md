@@ -18,7 +18,7 @@ Tech. consultant at Morgan Stanley
 Senior Software Engineer at Accolite Software, working under Morgan Stanley account
 
 ### Skills & Languages
-Data Structures, Algorithms, JAVA, C++, Python, SQL
+Data Structures, Algorithms, System Design, JAVA, C++, Python, SQL
 
 ### Frameworks, Tools & Libraries
 Spring boot, Teradata, Numpy, Pandas
