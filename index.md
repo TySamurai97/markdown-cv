@@ -30,13 +30,14 @@ __MORGAN STANLEY__
 <br>
 `– present`
 <br>- Currently working on BTI (Banking-Trading Indicator) reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata based database object development.
-<br>- Worked on VaR (Value at Risk) backtesting application which involves ETL workflows, stored procedures autosys scripts.
+<br>- Worked on VaR (Value at Risk) backtesting application which involves ETL workflows, stored procedures & autosys scripts.
 <br>- Developed and enhanced VOLCKER, a financial data processing and reporting
 project required by the compliance department.
-<br>- Implemented factor adjustment in adjustment service which is based on JAVA spring.
+<br>- Implemented Factor Adjustment in adjustment service which is based on JAVA spring.
 <br>- Enhanced the trade signoff desktop application called 3RS based on .net framework.
 <br>- Developed multiple ETL workflows for processing and reporting of financial data warehouse with the help of Python and SQL.
 <br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers.<br>
+<br>
 __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
 <br>
@@ -48,6 +49,7 @@ for .net framework, C++ and python to the service layer and the UI of the
 website.
 <br>- Designed reports for Eduthrill/Code-analyzer application usage statistics using
 Jaspersoft studio.<br>
+<br>
 __R SYSTEMS INTERNATIONAL (Internship)__
 `1 June 2018`
 <br>
@@ -58,13 +60,15 @@ as backend.
 ## PROJECTS
 __VIDEO DE-BLURRING__
 <br>- Developed a project intended for super-resolution of the videos to enhance the picture quality by making use of
-deep-learning specifically DCGAN (Deep convolutional generative
-adversarial network).<br>
+deep-learning specifically DCGAN (Deep Convolutional Generative
+Adversarial Network).<br>
+<br>
 __COMPETITIVE PROGRAMMING COMPANION__
 <br>- Developed this application to help students compete well in programming
 competitions by providing user performance analysis on various
 platforms like SPOJ and CodeForces, platform specific comparison of two users,
-providing consultance from expert programmers through inbuilt messaging service.
+providing consultancy from expert programmers through inbuilt messaging service.
+<br>
 
 ## ACHIEVEMENTS
 <br>- Secured 509th rank in Google
