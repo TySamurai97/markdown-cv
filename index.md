@@ -29,7 +29,7 @@ __MORGAN STANLEY__
 `10 June 2019`
 <br>
 `– present`
-<br>- Currently working on BTI (Banking Trading Indicator) reconciliation system, where I am involved in test driven development of Spring boot based REST API and Teradata based dabase object development.
+<br>- Currently working on BTI (Banking-Trading Indicator) reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata based database object development.
 <br>- Worked on VaR (Value at Risk) backtesting application which involves ETL workflows, stored procedures autosys scripts.
 <br>- Developed and enhanced VOLCKER, a financial data processing and reporting
 project required by the compliance department.
@@ -70,7 +70,7 @@ providing consultance from expert programmers through inbuilt messaging service.
 <br>- Secured 509th rank in Google
 Kickstart Round C 2018.
 <br>- Scored a maximum of 1517
-rating on codeforces.
+rating on Codeforces.
 <br>- Ranked among the
 top 500 out of 50,000
 participants from India
