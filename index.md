@@ -18,10 +18,10 @@ Tech. consultant at Morgan Stanley
 Software Engineer at Accolite Software, working under Morgan Stanley account
 
 ### Skills & Languages
-Data Structures, Algorithms, Scala, JAVA, C++, Python, SQL
+Data Structures, Algorithms, JAVA, C++, Python, SQL
 
 ### Frameworks, Tools & Libraries
-Spring boot, Akka, Cucumber, WPF, Teradata, Numpy, Pandas
+Spring boot, Teradata, Numpy, Pandas
 
 ## EXPERIENCE
 
@@ -29,9 +29,11 @@ __MORGAN STANLEY__
 `10 June 2019`
 <br>
 `– present`
+<br>- Currently working on BTI (Banking Trading Indicator) reconciliation system, where I am involved in test driven development of Spring boot based REST API and Teradata based dabase object development.
+<br>- Worked on VaR (Value at Risk) backtesting application which involves ETL workflows, stored procedures autosys scripts.
 <br>- Developed and enhanced VOLCKER, a financial data processing and reporting
 project required by the compliance department.
-<br>- Implemented factor adjustment in adjustment service which is based on Scala futures and validations, also performed behaviour driven testing with Cucumber.
+<br>- Implemented factor adjustment in adjustment service which is based on JAVA spring.
 <br>- Enhanced the trade signoff desktop application called 3RS based on .net framework.
 <br>- Developed multiple ETL workflows for processing and reporting of financial data warehouse with the help of Python and SQL.
 <br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers.
