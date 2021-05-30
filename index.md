@@ -21,7 +21,7 @@ Senior Software Engineer at Accolite Software, working under Morgan Stanley acco
 Data Structures, Algorithms, System Design, JAVA, C++, Python, SQL
 
 ### Frameworks, Tools & Libraries
-Spring boot, Teradata, Numpy, Pandas
+Spring boot, Teradata, Pandas
 
 ## EXPERIENCE
 
@@ -29,14 +29,12 @@ __MORGAN STANLEY__
 `10 June 2019`
 <br>
 `– present`
-<br>- Currently working on BTI (Banking-Trading Indicator) reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata based database object development.
-<br>- Worked on VaR (Value at Risk) backtesting application which involves ETL workflows, stored procedures & autosys scripts.
-<br>- Developed and enhanced VOLCKER, a financial data processing and reporting
-project required by the compliance department.
+<br>- Working on a reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata based database object development.
+<br>- Developed multiple ETL workflows for various applications involving SQL stored procedures, DML, python & autosys scripts.
+<br>- Developed and enhanced VOLCKER, a financial data processing and reporting project required by the compliance department.
 <br>- Implemented Factor Adjustment in adjustment service which is based on JAVA spring.
-<br>- Enhanced the trade signoff desktop application called 3RS based on .net framework.
-<br>- Developed multiple ETL workflows for processing and reporting of financial data warehouse with the help of Python and SQL.
-<br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers.<br>
+<br>- Enhanced the trade signoff desktop application by adding bulk account upload feature in .net framework and spring backend.
+<br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers saving 2 hours of manual effort by 200 users.<br>
 <br>
 __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
