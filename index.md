@@ -29,10 +29,10 @@ __MORGAN STANLEY__
 `10 June 2019`
 <br>
 `– present`
-<br>- Working on a reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata based database object development.
+<br>- Working on a reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata database.
 <br>- Developed multiple ETL workflows for various applications involving SQL stored procedures, DML, python & autosys scripts.
-<br>- Developed and enhanced VOLCKER, a financial data processing and reporting project required by the compliance department.
-<br>- Implemented Factor Adjustment in adjustment service which is based on JAVA spring.
+<br>- Developed and enhanced VOLCKER, a financial data processing and reporting project with SQL.
+<br>- Implemented Factor Adjustment feature in balance adjustment service which is based on JAVA spring.
 <br>- Enhanced the trade signoff desktop application by adding bulk account upload feature in .net framework and spring backend.
 <br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers saving 2 hours of manual effort by 200 users.<br>
 <br>
