@@ -31,7 +31,6 @@ __MORGAN STANLEY__
 `– present`
 <br>- Working on a reconciliation system, where I am involved in test-driven development of Spring boot based REST API and Teradata database.
 <br>- Developed multiple ETL workflows for various applications involving SQL stored procedures, DML, python & autosys scripts.
-<br>- Developed and enhanced VOLCKER, a financial data processing and reporting project with SQL.
 <br>- Implemented Factor Adjustment feature in balance adjustment service which is based on JAVA spring.
 <br>- Enhanced the trade signoff desktop application by adding bulk account upload feature in .net framework and spring backend.
 <br>- Scripted python processes for Automation of complex trading calculations performed by financial controllers saving 2 hours of manual effort by 200 users.<br>
@@ -67,7 +66,6 @@ providing consultancy from expert programmers through inbuilt messaging service.
 <br>
 
 ## ACHIEVEMENTS
-- Appreciation in Finance tech. all hands for exceptional performance at Morgan Stanley.
 <br>- Secured 509th rank in Google
 Kickstart Round C 2018.
 <br>- Scored a maximum of 1517
