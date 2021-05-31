@@ -13,10 +13,6 @@ Tech. consultant at Morgan Stanley
 | <a href="https://tysamurai97.github.io/markdown-cv/">This CV</a>
 </div>
 
-
-## Currently
-Senior Software Engineer at Accolite Software, working under Morgan Stanley account
-
 ### Skills & Languages
 Data Structures, Algorithms, System Design, JAVA, C++, Python, SQL
 
