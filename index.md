@@ -67,6 +67,7 @@ providing consultancy from expert programmers through inbuilt messaging service.
 <br>
 
 ## ACHIEVEMENTS
+<br>- Appreciation in Finance tech. all hands for exceptional performance at Morgan Stanley.
 <br>- Secured 509th rank in Google
 Kickstart Round C 2018.
 <br>- Scored a maximum of 1517
