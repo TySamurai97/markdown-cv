@@ -40,7 +40,7 @@ __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
-<br>- designed features for an online programming website intended for conducting round one
+<br>- Designed features for an online programming website intended for conducting round one
 interview to test the coding proficiency of a candidate. Delivered features such
 as saving the project directory to cloud storage, compile and run tests functionality
 for .net framework, C++ and python based assignments.
