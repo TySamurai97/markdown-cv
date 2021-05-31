@@ -13,10 +13,10 @@ Tech. consultant at Morgan Stanley
 | <a href="https://tysamurai97.github.io/markdown-cv/">This CV</a>
 </div>
 
-## Skills & Languages
+## SKILLS
 Data Structures, Algorithms, System Design, JAVA, C++, Python, SQL
 
-## Frameworks, Tools & Libraries
+## OTHERS
 Spring boot, Teradata, Pandas
 
 ## EXPERIENCE
