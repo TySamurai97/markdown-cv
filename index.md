@@ -40,13 +40,11 @@ __ACCOLITE SOFTWARE (Internship)__
 `4 Feb 2019`
 <br>
 `– 31 May 2019`
-<br>- Enhanced an online programming website intended for conducting round one
+<br>- designed features for an online programming website intended for conducting round one
 interview to test the coding proficiency of a candidate. Delivered features such
-as saving the project directory to AWS S3, compile and run tests functionality
-for .net framework, C++ and python to the service layer and the UI of the
-website.
-<br>- Designed reports for Eduthrill/Code-analyzer application usage statistics using
-Jaspersoft studio.<br>
+as saving the project directory to cloud storage, compile and run tests functionality
+for .net framework, C++ and python based assignments.
+<br>- Designed performance and user interaction reports based on application usage statistics using Jaspersoft studio and MySQL db.<br>
 <br>
 __R SYSTEMS INTERNATIONAL (Internship)__
 `1 June 2018`
